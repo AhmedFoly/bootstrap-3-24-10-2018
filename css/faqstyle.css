@@ -1,0 +1,31 @@
+.bread-crumbs
+{
+	background-color: grey;
+
+}
+.breadcrumb
+{
+	margin-top: 10px
+}
+.faq hr
+{
+	width: 60%;
+}
+.faq h2,.faq p
+{color: white}
+
+.faq-qeustion .panel-heading a:after
+{
+	font-family: 'Glyphicons Halflings';
+	content:"\e114";
+	float: right;
+	color: #ff8300;
+}
+
+.faq-qeustion .panel-heading a.collapsed:after
+{
+	font-family: 'Glyphicons Halflings';
+	content:"\e113";
+	float: right;
+	color: #ff8300;
+}
